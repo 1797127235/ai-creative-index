@@ -1,6 +1,6 @@
 # pixelfx
 
-[← 返回游戏素材](./README.md) · [仓库](https://github.com/patch-gg/pixelfx)
+[← 返回游戏](./README.md) · [仓库](https://github.com/patch-gg/pixelfx)
 
 `MIT` · 244 个像素特效（纯代码）· 网页实时播 / 改色镜像 / 导出精灵图 · 附 Claude Code skill
 

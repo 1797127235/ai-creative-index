@@ -63,5 +63,6 @@ node sims/build.mjs strandbeest-live
 
 ## 相关
 
+- [anatomy](./anatomy.md) — 同是可交互机器图；为抽象概念造隐喻机器并精画，不是「拆某一台真机器」。
 - [text-to-cad](./text-to-cad.md) — 出 STEP/STL 的制造向 CAD。
 - [animate](../motion/animate.md) — 另一类「单 HTML 确定性成片」，偏 2D 讲解片。

@@ -10,6 +10,15 @@
 - [hallmark](./hallmark.md) — 反 AI 味的网页设计 skill：50 套材质主题，按「这页要干什么」铺版，浏览器里 lint 机造痕迹，也能 `/hallmark redesign` 改现有页。`MIT`
 - [taste-skill](./taste-skill.md) — 给 agent 审美：艺术指导 + 真实参考图 + 浏览器自检，用来做站和 App 屏，而不是拼一张平均落地页。`MIT`
 - [jakubkrehel/skills](./jakubkrehel-skills.md) — 界面工艺 skill 合集：排版、色板、无障碍、布局、文案、Figma/图稿还原，以及整屏 review / 变体 / 压力测试。`MIT`
+- [ai-design-skills](./ai-design-skills.md) — 设计 skill 合集：落地页从零搭建（结构 + 转化文案 + 视觉系统）与 Figma 结构化设计（变量 / 组件态 / Foundations）。`MIT`
+
+## 组件规格图
+
+- [dimensional-drawing](./dimensional-drawing.md) — Apple 风格 UI 尺寸图：padding / 圆角 / 图层 / 视口，单色变量标注；可选把图纸画成 ~10s 短片。`MIT`
+
+## 卷动体验落地页
+
+- [scroll-world](./scroll-world.md) — 品牌 → 可滚动「飞穿小世界」落地页：AI 等轴测场景 + 无缝镜头链，滚动 scrub 成连续飞行（依赖 Monid/Higgsfield 等，按量计费）。`MIT`
 
 ## 平台能力（非仓库）
 

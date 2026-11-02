@@ -1,6 +1,6 @@
 # Claude-Code-Game-Studios
 
-[← 返回游戏素材](./README.md) · [仓库](https://github.com/Donchitos/Claude-Code-Game-Studios)
+[← 返回游戏](./README.md) · [仓库](https://github.com/Donchitos/Claude-Code-Game-Studios)
 
 `MIT` · 把一次 Claude Code 会话变成游戏工作室 · 49 agents · 74 skills · hooks / rules / 模板
 
@@ -53,7 +53,7 @@ claude   # 必须在含 CLAUDE.md / project.yaml 的根目录开
 ## 限制
 
 - **只服务 Claude Code** 这套 agents/skills/hooks 布局；换工具要大量移植。
-- 默认在 `game-assets` 下是因为「做游戏的 AI 工作流」；它产出的是流程与工程纪律，**不是**现成像素包（素材见 [pixelfx](./pixelfx.md)）。
+- 放在 `game/` 的「工作流」区：产出的是流程与工程纪律，**不是**现成像素包（资产见 [pixelfx](./pixelfx.md)）。
 - `full` rigor 文档税很重；小项目用 `minimal`，别被模板吓跑。
 
 ## 相关

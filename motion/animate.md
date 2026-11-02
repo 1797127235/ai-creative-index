@@ -2,7 +2,7 @@
 
 [← 返回动效与动画](./README.md) · [仓库](https://github.com/cth9191/animate)
 
-`MIT` ⭐1.4k · Claude Code skill · 一个 `<canvas>` + 程序化配乐 → 逐帧确定性渲染 MP4
+`MIT` · Claude Code skill · 一个 `<canvas>` + 程序化配乐 → 逐帧确定性渲染 MP4
 
 ## 它是什么
 
@@ -94,4 +94,4 @@ node $SKILL/tools/build.mjs <piece>
 
 - [mg-styles-15](./mg-styles-15.md) — 15 支成片 + 提示词，可以拿来当风格参考喂给 animate。
 - [motion-prompt](./motion-prompt.md) — 用具体动作名词指挥它做某一段动效。
-- [lemo-opuscar](../video/README.md) — 另一套代码做片系统，风格库更大。
+- [lemo-opuscar](../video/lemo-opuscar.md) — 另一套代码做片系统，风格库更大。

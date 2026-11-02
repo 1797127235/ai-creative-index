@@ -2,7 +2,7 @@
 
 [← 返回动效与动画](./README.md) · [仓库](https://github.com/showheyohtaki/motion-prompt) · [动态画廊](https://showheyohtaki.github.io/motion-prompt/)
 
-`MIT` ⭐1.1k · 192 个动作/效果名词 · 5 种语言 · 附 Claude Code / Codex skill
+`MIT` · 192 个动作/效果名词 · 5 种语言 · 附 Claude Code / Codex skill
 
 ## 它解决什么问题
 
@@ -56,5 +56,5 @@ info                          # 数据来源、数量、缓存在哪
 
 ## 相关
 
-- 想找**风格**而不是**动作**：[mg-styles-15](./mg-styles-15.md)（15 种成片风格）、[lemo-opuscar](../video/README.md)（66 种）。
+- 想找**风格**而不是**动作**：[mg-styles-15](./mg-styles-15.md)（15 种成片风格）、[lemo-opuscar](../video/lemo-opuscar.md)（66 种）。
 - 想让 AI 直接出片：[animate](./animate.md)。

@@ -2,7 +2,7 @@
 
 [← 返回动效与动画](./README.md) · [仓库](https://github.com/Vincentwei1021/mg-styles-15) · [15 支成片在线看（带声音）](https://vincentwei1021.github.io/mg-styles-15/?lang=zh)
 
-`MIT` ⭐2.9k · 15 种 MG 风格 × 10 秒成片 · 全部由 Claude Opus 5.5 写代码生成，不用生图/生视频模型
+`MIT` · 15 种 MG 风格 × 10 秒成片 · 全部由 Claude Opus 5.5 写代码生成，不用生图/生视频模型
 
 ## 它给你什么
 
@@ -61,5 +61,5 @@
 
 ## 同类
 
-- [lemo-opuscar](../video/README.md) — 66 种「用代码做片」风格，更偏整套制片流程（分镜、配乐、字幕）。
+- [lemo-opuscar](../video/lemo-opuscar.md) — 66 种「用代码做片」风格，更偏整套制片流程（分镜、配乐、字幕）。
 - [animate](./animate.md) — 同样是代码出片，但它是 Claude Code skill，自带分镜/审片/多尺寸导出，长片比它顺手。
